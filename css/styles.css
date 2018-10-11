@@ -1,0 +1,16 @@
+.jumbotron {
+  text-align: center;
+}
+.divbg {
+  background-image: url(https://dbijapkm3o6fj.cloudfront.net/resources/1197,1004,1,6,4,0,1600,900/-4153-/20180414095012/stay-4-nights-pay-only-3-nights-with-breakfast-included-bora-bora-pearl-beach-resort-spa.jpeg);
+  opacity: 0.3;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+.container{
+  box-shadow: 10px 10px 40px;
+}
