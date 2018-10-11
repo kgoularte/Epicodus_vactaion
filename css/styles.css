@@ -1,5 +1,7 @@
 .jumbotron {
   text-align: center;
+  background-image: url(../img/cocktail.jpg);
+  color: white;
 }
 .divbg {
   background-image: url(https://dbijapkm3o6fj.cloudfront.net/resources/1197,1004,1,6,4,0,1600,900/-4153-/20180414095012/stay-4-nights-pay-only-3-nights-with-breakfast-included-bora-bora-pearl-beach-resort-spa.jpeg);
